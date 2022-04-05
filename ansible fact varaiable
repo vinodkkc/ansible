@@ -1,0 +1,6 @@
+ansible_os_family
+ansible_processor_cores
+ansible_kernel
+ansible_device
+ansible_default_ipv4
+ansible artechture
